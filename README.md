@@ -1,13 +1,13 @@
 ## Laboratory Activity
 
-*Grade* -
+**Grade** -
 
 - (5pts) Layout
 - (5pts) CSS 
 - (5pts) Javascript methods
 - (5pts) Responsiveness
 
-*Members:*
+**Members:**
 
 - Name and surname (Student ID)
 - Name and surname (Student ID)
@@ -21,7 +21,7 @@
 
 Consider the following folders tree:
 
-- `css` folder should contain all your style sheets in .css *only*
+- `css` folder should contain all your style sheets in .css **only**
 - `images` folder should have all the required images that you need in the project
 - `javascript` folder should contain all your scripts
     - `app.js`: here you should complete the implementation of the 4 functions using javascript
